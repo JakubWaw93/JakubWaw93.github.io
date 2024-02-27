@@ -6,7 +6,7 @@ $(document).ready(function() {
 
   var availableBoards = {};
   var availableTasks = {};
- 
+
   // init
 
   getAllTasks();
